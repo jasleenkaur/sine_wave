@@ -9,15 +9,17 @@ This program can make two waves: horizontal and vertical<br>
 
 Features:
 ----------
--Program will ask you to choose which wave you want.
--What number of cycles you want.
--Changing its origin point.
--Choose your scaling factor from 1 to 5.
+1. Program will ask you to choose which wave you want.<br>
+2. What number of cycles you want.<br>
+3. Changing its origin point.<br>
+4. Choose your scaling factor from 1 to 5.<br>
 
 
 How To use?
 ------------
--git clone "https://github.com/jasleenkaur/sine_wave.git"
--Compiling it with g++:  g++ ­-o outputFile filename.cpp  (­o option is used to produce executable file of name same as mentioned(exe_name) of filename.cpp. By default its executable file is a.out, run as ./a.out )
--Run the Program as:  ./exe_name
+1. git clone "https://github.com/jasleenkaur/sine_wave.git"<br>
+2. Compiling it with g++:  g++ ­-o outputFile filename.cpp
+3. (­o option is used to produce executable file of name same as mentiond(exe_name) of filename.cpp.
+By default its executable file is a.out, run as ./a.out )<br>
+3. Run the Program as:  ./exe_name<br>
 
