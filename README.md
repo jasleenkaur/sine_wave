@@ -1,4 +1,4 @@
-sine_wave
+**Sine Wave**
 =========
 
 c++ program to create Sine Wave
@@ -23,3 +23,8 @@ How To use?
 By default its executable file is a.out, run as ./a.out )<br>
 3. Run the Program as:  ./exe_name<br>
 
+AUTHOR
+-------
+JASLEEN KAUR<br>
+BLOG: jasleen7956.wordpress.com<br>
+EMAIL: jasleen.7956@gmail.com<br>
